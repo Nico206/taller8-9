@@ -11,10 +11,12 @@ Header:
 ![image](https://github.com/NicoYwY/taller8-9/assets/125584676/0c2cc6f0-be98-497c-b543-81d52ff4823e)
 
 implementacion:
-![image](https://github.com/NicoYwY/taller8-9/assets/125584676/50e80d02-5352-4abc-b60b-b26bb72d14a4)
+![image](https://github.com/NicoYwY/taller8-9/assets/125584676/c7091b54-c1d6-4977-847b-14a4aaffb11c)
+
 
 Funcionamiento: 
-![image](https://github.com/NicoYwY/taller8-9/assets/125584676/9e8fce0a-75c5-4ae8-a389-58633fdc833e)
+![image](https://github.com/NicoYwY/taller8-9/assets/125584676/f040c371-a7df-4bad-b1bc-e74333eebaff)
+
 
 
 # Forwarding
